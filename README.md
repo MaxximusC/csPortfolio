@@ -4,6 +4,7 @@
 * Lightning [here](https://maxximusc.github.io/lightning2/)
 * Lighting JS[here]()
 * Dice [here]()
+* Chemotaxis [here]()
 
 ```Java
 void setup() {
