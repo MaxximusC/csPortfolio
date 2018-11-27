@@ -24,6 +24,6 @@ if (blockedDot == true) {
       }
     }
 ```
-* This code was challenging to write simply because of how precise and specific it had to be in order to function properly. The code above was pulled from my Chemotaxis lab. It basically is checking if a blockade is in the way of a dot so that the dot will be unable to pass through it? It also decides which direction the dot is able to go so that it may get away from the blockade eventually.
+* This code was challenging to write simply because of how precise and specific it had to be in order to function properly. The code above was pulled from my Chemotaxis lab. It basically is checking if a blockade is in the way of a dot so that the dot will be unable to pass through it. It also decides which direction the dot is able to go so that it may get away from the blockade eventually.
 
 * Solving this issue was tough. I had to use booleans as off/on switches, turning them at the right exact moments to make things work out properly. I also found it easier to have an arraylist that would keep track of all the dots that have been blocked (triggered).
